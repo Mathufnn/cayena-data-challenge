@@ -1,0 +1,4 @@
+catboost_info
+__pycache__
+*.pyc
+dataset_ds_case.csv
